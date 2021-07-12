@@ -1,6 +1,6 @@
 ### Hi there, i'm Dillon - aka [thatsPickle][website] 👋
 
-### I'm a Developer, UX Designer and CS Student!
+### I'm a Developer, Freelancer and CS Student!
 - 🔭 I'm currently working on a portfolio website
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
