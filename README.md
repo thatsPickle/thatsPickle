@@ -10,7 +10,6 @@
 
 [<img align="left" alt="thatsPickle | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitch]
 [<img align="left" alt="thatsPickle | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="thatsPickle | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -46,4 +45,3 @@
 [website]: https://thatspickle.com
 [youtube]: https://www.youtube.com/channel/UCk_0IYjeHjTprTAw1cd_k-g/featured
 [twitch]: https://twitch.tv/thatspickles
-[instagram]: https://www.instagram.com/hta_pickle/
