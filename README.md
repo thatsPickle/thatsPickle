@@ -1,47 +1,31 @@
-### Hi there, i'm Dillon - aka [thatsPickle][website] 👋
+- 🔭 Hi, I'm @thatsPickle
+- 🌱 I'm a FullStack Developer
+- 👯 You can contact me on Discord : thatsPickle#5605
 
-### I'm a Computer Science Student
-- 🔭 I'm currently working on a portfolio website
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+<img align="left" alt="Symfony" width="120px" height="30" src="https://camo.githubusercontent.com/6068c93ae9fadd84d79f2ca2cb7aa0275a8e16bc0de27dafe395bd97af1a5c5e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73796d666f6e792d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d73796d666f6e79266c6f676f436f6c6f723d7768697465"/>
 
-### Connect with me:
+<img align="left" alt="Postgres" width="120px" height="30" src=
+"https://camo.githubusercontent.com/29e7fc6c62f61f432d3852fbfa4190ff07f397ca3bde27a8196bcd5beae3ff77/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f706f7374677265732d2532333331363139322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"/>
 
-[<img align="left" alt="thatsPickle | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitch.svg" />][twitch]
-[<img align="left" alt="thatsPickle | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<img align="left" alt="Webpack" width="120px" height="30" src="https://camo.githubusercontent.com/cfb221c05f485331b66bcf123878fc7de981faffc16fe430ff53bb1ad4f41aad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7765627061636b2d2532333844443646392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7765627061636b266c6f676f436f6c6f723d626c61636b"/>
 
-<br />
+<img align="left" alt="Node.JS" width="120px" height="30" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/>
 
-### Languages and Tools:
+<img align="left" alt="Expo" width="120px" height="30" src="https://camo.githubusercontent.com/21993b10b489d1a96fcc783ca38c6a721b2835a7b99117921f20ad766e8e05e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6578706f2d3143314532343f7374796c653d666f722d7468652d6261646765266c6f676f3d6578706f266c6f676f436f6c6f723d23443034413337"/>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][twitch]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][twitch]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][twitch]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][twitch]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][twitch]
-[<img twitch="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][twitch]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][twitch]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][twitch]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][twitch]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][twitch]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][twitch]
+<img align="left" alt="ExpressJS" width="120px" height="30" src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642"/>
 
-<br />
-<br />
+<img align="left" alt="React Native" width="120px" height="30" src="https://camo.githubusercontent.com/7a1eac05435009e58e5a990d7319fbb0e76d2f528fc3899d0ffc21636a09ee13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163745f6e61746976652d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642"/>
 
----
-### 📺 Latest YouTube Videos
+<img align="left" alt="JavaScript" width="120px" height="30" src="https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145"/>
 
-<!-- YOUTUBE:START -->
-- [Airsoft | Red Dawn: EPIC TOWER KILLS! [Mercer Airsoft, PA]](https://www.youtube.com/watch?v=xs1nJ6fb1qI)
-<!-- YOUTUBE:END -->
+<img align="left" alt="HTML5" width="120px" height="30" src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"/>
 
-➡️ [more videos...](https://www.youtube.com/channel/UCk_0IYjeHjTprTAw1cd_k-g/featured)
+<img align="left" alt="CSS" width="120px" height="30" src="https://camo.githubusercontent.com/e6b67b27998fca3bccf4c0ee479fc8f9de09d91f389cccfbe6cb1e29c10cfbd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332d2532333135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"/>
 
-<br />
-<br />
+<img align="left" alt="GO" width="120px" height="30" src="https://camo.githubusercontent.com/b24523991dccb1991a2b8faa8dd97f48a0944157eacb7316b32834c2e070cf09/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465"/>
 
-[website]: https://thatspickle.com
-[youtube]: https://www.youtube.com/channel/UCk_0IYjeHjTprTAw1cd_k-g/featured
-[twitch]: https://twitch.tv/thatspickles
+<img align="left" alt="PHP" width="120px" height="30" src="https://camo.githubusercontent.com/b7e290d2aeff9829bba45e897265ceebd34b25f6f7efba4b08e1b23cfe0815e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7068702d2532333737374242342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d706870266c6f676f436f6c6f723d7768697465"/>
+
+<img align="left" alt="Shell Script" width="120px" height="30" src="https://camo.githubusercontent.com/7df250f624de398fbf14c84b1667c3d1e8e1450d67c0be03bd0dfb4e6a28c2c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7368656c6c5f7363726970742d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676e752d62617368266c6f676f436f6c6f723d7768697465"/>
+
